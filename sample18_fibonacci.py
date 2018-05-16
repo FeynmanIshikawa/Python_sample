@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 import numpy as np
 
 class fibonacci():
@@ -29,4 +31,3 @@ class fibonacci():
     print(mat10)
     print(mat11)
     print(mat12)
-
